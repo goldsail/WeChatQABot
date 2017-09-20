@@ -61,7 +61,7 @@ QnA Maker 服务的网址是 [](https://qnamaker.ai)，使用微软账号登录�
 
 将以下代码粘贴并覆盖该文件中的原有代码：
 
-```
+```C#
 using System;
 using System.Collections.Generic;
 using System.Linq;
