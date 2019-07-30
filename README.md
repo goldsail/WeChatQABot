@@ -2,6 +2,10 @@
 A guide of builing a Q&amp;A bot in WeChat using Microsoft QnA Maker Service  
 This document is written in Chinese since most WeChat users speak Chinese. 
 
+This document has been obsolete since 2018, because WeChat API no longer supports HTTP after enabling required HTTPS.
+
+本文档所述内容从2018年起已不再适用，因为微信API已强制开启HTTPS，不再支持HTTP。
+
 # 使用微软 QnA Maker 搭建微信问答机器人
 
 # 0. 简介
